@@ -1,4 +1,4 @@
-# MediRAV-Multimodal-Lung-Cancer-Disease-framework
+# MediRAV-Multimodal-Lung-Disease-framework
 A multimodal lung disease diagnostic system integrating CT scan image analysis, clinical text processing using Bio_ClinicalBERT, and audio-based medical speech and intent classification. The framework explores multimodal feature fusion for lung cancer classification and clinical decision support.
 multimodal-learning, lung-cancer-detection, medical-imaging, clinical-nlp, audio-classification, bio-clinicalbert, deep-learning, python
 
@@ -19,7 +19,7 @@ The proposed system explores three medical data modalities: CT scan images, clin
 
 ### Final Performance Results
 
-The following table compares the performance of individual modalities and fusion strategies in the proposed multimodal lung cancer diagnostic system.
+The following table compares the performance of individual modalities and fusion strategies in the proposed multimodal lung disease diagnostic system.
 
 | Model / Fusion Strategy | Accuracy (%) | F1-Score (%) | Loss | Error Rate (%) |
 |:---|---:|---:|---:|---:|
