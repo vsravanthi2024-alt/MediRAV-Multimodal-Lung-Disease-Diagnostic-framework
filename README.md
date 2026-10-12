@@ -4,7 +4,9 @@ multimodal-learning, lung-cancer-detection, medical-imaging, clinical-nlp, audio
 
 # Dataset links
 https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent
+
 https://github.com/EmilyAlsentzer/clinicalBERT
+
 https://www.cancerimagingarchive.net/collection/lidc-idri/
 # Methodology
 <img width="925" height="702" alt="image" src="https://github.com/user-attachments/assets/24f63e36-ff37-45ff-8197-9dd060b64d93" />
@@ -30,4 +32,10 @@ The following table compares the performance of individual modalities and fusion
 | Joint Embedding | 91.11 | 91.33 | 0.2631 | 8.89 |
 | **MediRAV-HSF (Proposed)** | **95.20** | **95.08** | **0.1842** | **4.80** |
 
-**Key Observation:** MediRAV-HSF achieves the highest reported accuracy (95.20%) and F1-score (95.08%), along with the lowest loss (0.1842) and error rate (4.80%) among the evaluated approaches.
+# References
+
+[1] R. Dubey et al., “Attention-Guided Multimodal Lung Cancer Detection,” *Scientific Reports*, 2026. https://doi.org/10.1038/s41598-026-58892-2
+
+[2] H. Alharbi, “A Spatial Correlation-Guided Deep Fusion Framework for Multimodal Lung Cancer Classification,” *Frontiers in Medicine*, 2026. https://doi.org/10.3389/fmed.2026.1822284
+
+[3] “Application of Deep Learning-Based Multimodal Fusion Technology in Cancer Diagnosis: A Survey,” *Engineering Applications of Artificial Intelligence*, 2025. https://doi.org/10.1016/j.engappai.2024.109972
